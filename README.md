@@ -8,4 +8,4 @@ Terms are only taken from Baidu baike.
 4. "output.docx" will be created and will include the chinese definitions.
 
 Note that the definitions are shortened because no one wants to read an entire paragraph just for a definition.
-Definitions can also be incorrect, this project is not perfect.
+Definitions may be incorrect.
